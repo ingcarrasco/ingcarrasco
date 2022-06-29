@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <h1>👋 Hi, I’m @ingcarrasco</h1>
+</div>
+
 - 👋 Hi, I’m @ingcarrasco
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
