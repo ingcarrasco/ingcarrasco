@@ -7,6 +7,8 @@
   <a href="https://twitter.com/ingcarrasco">
     <img src="https://img.shields.io/twitter/follow/ingcarrasco?color=green&logo=Twitter&style=for-the-badge" alt="Twitter badage">
   </a>
+  <a href="https://www.linkedin.com/in/ingacarrasco" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ingcarrasco">
     <img src="https://img.shields.io/github/followers/ingcarrasco?logo=Github&style=for-the-badge" alt="Github badage">
   </a>
@@ -57,9 +59,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40">&nbsp;
 </div>
-
-
 <!---
+```text
+TypeScript   4 hrs 22 mins   ████████████▒░░░░░░░░░░░░   49.13 %
+JavaScript   4 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.74 %
+SCSS         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```
+
 ingcarrasco/ingcarrasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
